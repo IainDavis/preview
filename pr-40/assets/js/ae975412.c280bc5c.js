@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkiaindavis_dev=self.webpackChunkiaindavis_dev||[]).push([[3939],{52416:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/preview.iaindavis.github.io/pr-40/blog","page":1,"postsPerPage":10,"totalPages":2,"totalCount":13,"nextPage":"/preview.iaindavis.github.io/pr-40/blog/page/2","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
