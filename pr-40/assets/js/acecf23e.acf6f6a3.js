@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkiaindavis_dev=self.webpackChunkiaindavis_dev||[]).push([[1903],{1912:i=>{i.exports=JSON.parse('{"blogBasePath":"/preview.iaindavis.github.io/pr-40/blog","blogTitle":"Blog","authorsListPath":"/preview.iaindavis.github.io/pr-40/blog/authors"}')}}]);

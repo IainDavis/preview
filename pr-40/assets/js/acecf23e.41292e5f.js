@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkiaindavis_dev=self.webpackChunkiaindavis_dev||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/pr-40/blog","blogTitle":"Blog","authorsListPath":"/pr-40/blog/authors"}')}}]);
