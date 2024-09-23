@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkiaindavis_dev=self.webpackChunkiaindavis_dev||[]).push([[5068],{34383:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/preview/pr-41/blog/page/2","page":2,"postsPerPage":10,"totalPages":2,"totalCount":13,"previousPage":"/preview/pr-41/blog","blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
