@@ -55,6 +55,7 @@ immediate feedback via GitHub Actions, and the deployment halts.</li>
 I can now focus more on building features, confident that the deployment process
 is working smoothly in the background.</p>]]></content:encoded>
             <author>iain@iaindavis.dev (Iain Davis)</author>
+            <author>nova@iaindavis.dev (Nova)</author>
             <category>Automation</category>
             <category>Infrastructure</category>
             <category>CI/CD</category>
