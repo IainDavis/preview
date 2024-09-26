@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuites name="vitest tests" tests="22" failures="0" errors="0" time="1.686">
-    <testsuite name="src/components/Expandable/Expandable.test.tsx" timestamp="2024-09-25T23:45:44.337Z" hostname="fv-az1251-449" tests="22" failures="0" errors="0" skipped="0" time="0.232784445">
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should render collapsed by default and expand when clicked" time="0.035555122">
+<testsuites name="vitest tests" tests="22" failures="0" errors="0" time="1.939">
+    <testsuite name="src/components/Expandable/Expandable.test.tsx" timestamp="2024-09-26T00:40:26.405Z" hostname="fv-az520-812" tests="22" failures="0" errors="0" skipped="0" time="0.227183734">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should render collapsed by default and expand when clicked" time="0.035659029">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should render expanded by default if startExpanded is true" time="0.003655729">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should render expanded by default if startExpanded is true" time="0.003752574">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should collapse when clicked after being expanded" time="0.00544965">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should collapse when clicked after being expanded" time="0.005468611">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should handle empty prompts gracefully" time="0.004717647">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should handle empty prompts gracefully" time="0.004694103">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should handle null prompts gracefully" time="0.004294779">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should handle null prompts gracefully" time="0.004245255">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should handle undefined prompts gracefully" time="0.003926964">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should handle undefined prompts gracefully" time="0.003978606">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should perform well with large content when expanding/collapsing" time="0.003766766">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should perform well with large content when expanding/collapsing" time="0.003769034">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should update when startExpanded prop is changed dynamically" time="0.004018875">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should update when startExpanded prop is changed dynamically" time="0.004130299">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should maintain visual consistency between expanded and collapsed states" time="0.012153646">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should maintain visual consistency between expanded and collapsed states" time="0.012216383">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should respond correctly to different screen sizes" time="0.002799654">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Basic tests &gt; should respond correctly to different screen sizes" time="0.002884892">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Storybook Stories &gt; should render the &quot;PreExpanded&quot; story correctly" time="0.034772313">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Storybook Stories &gt; should render the &quot;PreExpanded&quot; story correctly" time="0.03386213">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Storybook Stories &gt; should render custom expand and collapse prompts in the &quot;CustomExpandCollapsePrompt&quot; story" time="0.017730874">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Storybook Stories &gt; should render custom expand and collapse prompts in the &quot;CustomExpandCollapsePrompt&quot; story" time="0.017621324">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Storybook Stories &gt; should render the &quot;Default&quot; story collapsed by default" time="0.006548506">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Storybook Stories &gt; should render the &quot;Default&quot; story collapsed by default" time="0.00638303">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Storybook Stories &gt; should expand the &quot;Default&quot; story content when clicked" time="0.013285785">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Storybook Stories &gt; should expand the &quot;Default&quot; story content when clicked" time="0.010077546">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Storybook Stories &gt; should allow independent toggling of nested Expandable components" time="0.035073525">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Storybook Stories &gt; should allow independent toggling of nested Expandable components" time="0.033806285">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Accessibility Tests &gt; should render with initial collapsed state" time="0.005059664">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Accessibility Tests &gt; should render with initial collapsed state" time="0.005053796">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Accessibility Tests &gt; should expand and focus on content when clicked" time="0.004938448">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Accessibility Tests &gt; should expand and focus on content when clicked" time="0.004913102">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Accessibility Tests &gt; should collapse and move focus back to the button" time="0.00478923">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Accessibility Tests &gt; should collapse and move focus back to the button" time="0.004720303">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Accessibility Tests &gt; should start expanded if startExpanded is true" time="0.007492896">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Accessibility Tests &gt; should start expanded if startExpanded is true" time="0.007435608">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Accessibility Tests &gt; When Expandables are nested &gt; should set aria-expanded correctly for parent and child independently" time="0.005028254">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Accessibility Tests &gt; When Expandables are nested &gt; should set aria-expanded correctly for parent and child independently" time="0.004884318">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Accessibility Tests &gt; When Expandables are nested &gt; should manage focus correctly between parent and child expandables" time="0.00918114">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Accessibility Tests &gt; When Expandables are nested &gt; should manage focus correctly between parent and child expandables" time="0.00913319">
         </testcase>
-        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Accessibility Tests &gt; When Expandables are nested &gt; should be keyboard navigable for both parent and child" time="0.006369995">
+        <testcase classname="src/components/Expandable/Expandable.test.tsx" name="Expandable Component &gt; Accessibility Tests &gt; When Expandables are nested &gt; should be keyboard navigable for both parent and child" time="0.006288043">
         </testcase>
     </testsuite>
 </testsuites>
