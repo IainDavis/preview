@@ -24,10 +24,10 @@
 <li>
 <p>Upgrading Docusaurus: <code>v3.5.2</code> → <code>v3.6.0</code></p>
 <p>This implies a transition from <code>webpack</code> to the rust-based equivalent <code>Rspack</code>. I'm a bit concerned that may have some consequences for the existing interactions between vite, babel, and webpack, but so far all seems well.</p>
-<p>Happily looking forward to improved mermaid support. Hopefully I can take advantage of interactive menus in rendered mermaid diagrams, though I haven't tested this, and it may require some additional configuration to override the default mermaid implementation for a newer one.</p>
+<p>Happily looking forward to improved Mermaid support. Hopefully I can take advantage of interactive menus in rendered Mermaid diagrams, though I haven't tested this, and it sounds as though it may require some additional configuration to override the default mermaid version for a newer one.</p>
 </li>
 <li>
-<p>Added a separate instance of the Docusaurus blog plugin</p>
+<p>Added a separate instance of the Docusaurus blog plugin for hands-on exercises</p>
 <p>I've been wanting a way to capture and publish this activity for a while. Indeed, it's part of the reason I wanted this website to exist in the first place -- partly for making visible to potential employers any activites that aren't encompassed in projects, but also for my own reference if I should want to look back on things I've previously learned.</p>
 <p>I've gone through several iterations of this, either in concept or in partial implementation. Each version has varied in which elements are stored in their own independent repository, and which elements were stored here. In the end, I've landed on a hybrid solution with the actual solution files in <a href="https://github.com/IainDavis/book-exercises" target="_blank" rel="noopener noreferrer">their own repository</a> and the documentation in this repository, allowing me access to all Docusaurus offers when describing my efforts, as well as the custom components I've created.</p>
 <p>Using the Docusaurus <code>blog</code> plugin gives me a historical record of what I've done, as well as being searchable by tags. At the moment, I'm intending to group tags into three rough categories:</p>
@@ -45,6 +45,8 @@
 </li>
 </ol>]]></content:encoded>
             <author>iain@iaindavis.dev (Iain Davis)</author>
+            <category>Infrastructure</category>
+            <category>My Brand</category>
         </item>
         <item>
             <title><![CDATA[Disruption]]></title>
